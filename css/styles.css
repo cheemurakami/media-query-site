@@ -21,3 +21,9 @@
         background-color: blue;
     }
 }
+@media screen and (min-width: 700px) and (max-width: 1000px){
+    body{
+        background-color: black;
+        color: white;
+    }
+}
