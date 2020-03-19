@@ -5,9 +5,9 @@
     padding: 20px;
     }
 }
-@media screen and (max-width: 768px) and (min-width: 600px) {
+@media screen and (min-width: 1000px) {
     body {
-        background-color: black;
+        background-color: red;
         color: white;
     }
 }
